@@ -1,8 +1,8 @@
 h1 {
   text-align: center;
   font-size: 70px;
-  background-image: url(https://t4.ftcdn.net/jpg/00/86/37/81/360_F_86378147_OSxmdZPBfjArWcqMuPfiiBnLtW8lrOg6.jpg);
   color: black;
+  display: inline-block;
 }
 
 p {
@@ -19,16 +19,37 @@ hr {
   color: #5c0000;
 }
 
-h3 {
+h2 {
   font-size: 20px;
 }
 li {
   color: #c4c1cb;
 }
-h4 {
+h2 {
   font-size: 20px;
 }
 h5 {
   font-size: 70px;
   text-align: center;
+}
+.parent{
+ background-image: url(https://t4.ftcdn.net/jpg/00/86/37/81/360_F_86378147_OSxmdZPBfjArWcqMuPfiiBnLtW8lrOg6.jpg);
+  display:inline-block;
+  width: 100%;
+  justify-conent: center;
+  text-align: center;
+}
+.viper{
+  display: inline-block;
+  width:80px;
+  height:80px;
+  background-image: url(images/viper.png);
+}
+
+#vleft{
+  margin-right: 20%;
+}
+
+#vright{
+  margin-left: 20%;  
 }
