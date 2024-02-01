@@ -1,17 +1,18 @@
 h1 {
   text-align: center;
   font-size: 70px;
-  color: black;
+  color: #7E0303;
   display: inline-block;
+  font-family: georgia;
 }
 
 p {
-  color: #c4c1cb;
+  color: #FFFFFF;
   font-size: 20px;
 }
 body {
-  background: #000000;
-  color: #c4c1cb;
+  background: #242324;
+  color: #FFFFFF;
 }
 hr {
   border-color: #5c0000;
@@ -25,31 +26,29 @@ h2 {
 li {
   color: #c4c1cb;
 }
-h2 {
-  font-size: 20px;
-}
+
 h5 {
   font-size: 70px;
   text-align: center;
 }
-.parent{
- background-image: url(https://t4.ftcdn.net/jpg/00/86/37/81/360_F_86378147_OSxmdZPBfjArWcqMuPfiiBnLtW8lrOg6.jpg);
-  display:inline-block;
+.parent {
+  background-image: url(https://media.istockphoto.com/id/1401295466/vector/halftone-spotted-background.jpg?s=612x612&w=0&k=20&c=ql7PRJ1ffHk-Zkj4cDeePpLzmqAPzgIVtfBkCsoqK2Q=);
+  display: inline-block;
   width: 100%;
-  justify-conent: center;
+  justify-content: center;
   text-align: center;
 }
-.viper{
+.viper {
   display: inline-block;
-  width:80px;
-  height:80px;
-  background-image: url("/images/viper.png");
+  width: 80px;
+  height: 80px;
+  background-image: ;
 }
 
-#vleft{
+#vleft {
   margin-right: 20%;
 }
 
-#vright{
-  margin-left: 20%;  
+#vright {
+  margin-left: 20%;
 }
